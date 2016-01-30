@@ -1,0 +1,2 @@
+# ft-example
+frontend example.
